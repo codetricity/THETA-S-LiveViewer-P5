@@ -9,4 +9,4 @@ Another open source example of live streaming with the RICOH THETA S is
 that is used in the
 [360 video chat sample](http://lists.theta360.guide/t/360-video-conferencing-with-the-ricoh-theta-s/38?u=codetricity).
 
-![Analytics](https://ga-beacon.appspot.com/UA-73311422-5/liveviewer-p5?pixel)
+![Analytics](https://ga-beacon.appspot.com/UA-73311422-5/liveviewer-p5)
